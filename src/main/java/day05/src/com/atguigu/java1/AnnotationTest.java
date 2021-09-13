@@ -126,6 +126,7 @@ class Student extends Person implements Info{
         System.out.println("学生走路");
     }
 
+    @Override
     public void show() {
 
     }
