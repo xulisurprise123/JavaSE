@@ -1,5 +1,7 @@
 package day05.src.com.atguigu.java;
 
+import enumStudy.WeekDay;
+
 /**
  * 使用enum关键字定义枚举类
  * 说明：定义的枚举类默认继承于java.lang.Enum类
@@ -33,6 +35,7 @@ public class SeasonTest1 {
 //        Season1 winter = Season1.valueOf("WINTER1");
         System.out.println(winter);
         winter.show();
+
     }
 }
 
@@ -52,7 +55,7 @@ enum Season1 implements Info{
     SUMMER("夏天","夏日炎炎"){
         @Override
         public void show() {
-            System.out.println("宁夏");
+            System.out.println("宁夏的夏日");
         }
     },
     AUTUMN("秋天","秋高气爽"){
