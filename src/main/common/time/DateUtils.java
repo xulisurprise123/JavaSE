@@ -25,7 +25,7 @@ import java.util.*;
         /**
          * 获得当前日期 yyyy-MM-dd HH:mm:ss
          *
-         * @return 2019-08-27 14:12:40
+         * @return 2021-08-27 14:12:40
          */
         public static String getCurrentTime() {
             // 小写的hh取得12小时，大写的HH取的是24小时
@@ -48,7 +48,7 @@ import java.util.*;
         /**
          * 获取当前日期 yy-MM-dd
          *
-         * @return 2019-08-27
+         * @return 2021-08-27
          */
         public static String getDateByString() {
             Date date = new Date();
@@ -59,8 +59,8 @@ import java.util.*;
         /**
          * 得到两个时间差  格式yyyy-MM-dd HH:mm:ss
          *
-         * @param start 2019-06-27 14:12:40
-         * @param end   2019-08-27 14:12:40
+         * @param start 2021-06-27 14:12:40
+         * @param end   2021-08-27 14:12:40
          * @return 5270400000
          */
         public static long dateSubtraction(String start, String end) {
@@ -135,7 +135,7 @@ import java.util.*;
          * 判断当前时间是否在[startTime, endTime]区间，注意时间格式要一致
          *
          * @param nowTime     当前时间
-         * @param dateSection 时间区间   2018-01-08,2019-09-09
+         * @param dateSection 时间区间   2018-01-08,2021-09-09
          * @return
          * @author jqlin
          */
@@ -193,9 +193,9 @@ import java.util.*;
         }
 
         /**
-         * 获取当前小时 ：2019-08-23 17
+         * 获取当前小时 ：2021-08-23 17
          *
-         * @return  2019-08-27 17
+         * @return  2021-08-27 17
          */
         public static String getCurrentHour() {
             GregorianCalendar calendar = new GregorianCalendar();
@@ -208,7 +208,7 @@ import java.util.*;
 
         /**
          * 获取当前时间一个小时前
-         * @return 2019-08-27 16
+         * @return 2021-08-27 16
          */
         public static String getCurrentHourBefore() {
             GregorianCalendar calendar = new GregorianCalendar();
@@ -227,7 +227,7 @@ import java.util.*;
         /**
          * 获取当前日期前一天
          *
-         * @return 2019-08-26
+         * @return 2021-08-26
          */
         public static String getBeforeDay() {
 
@@ -244,7 +244,7 @@ import java.util.*;
         /**
          * 获取最近七天
          *
-         * @return 2019-08-20
+         * @return 2021-08-20
          */
         public static String getServen() {
             SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
@@ -263,7 +263,7 @@ import java.util.*;
         /**
          * 获取最近一个月
          *
-         * @return 2019-07-27
+         * @return 2021-07-27
          */
         public static String getOneMonth() {
             SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
@@ -282,7 +282,7 @@ import java.util.*;
         /**
          * 获取最近三个月
          *
-         * @return 2019-05-27
+         * @return 2021-05-27
          */
         public static String getThreeMonth() {
             SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
