@@ -1,7 +1,7 @@
 package day06.src.com.atguigu.java1;
 
 /**
- * @author shkstart
+ * @author xuli
  * @create 2021 下午 3:56
  */
 public class User implements Comparable{

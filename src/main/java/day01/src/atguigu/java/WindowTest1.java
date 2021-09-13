@@ -4,7 +4,7 @@ package day01.src.atguigu.java;
  * 例子：创建三个窗口卖票，总票数为100张.使用实现Runnable接口的方式
  * 存在线程的安全问题，待解决。
  *
- * @author shkstart
+ * @author xuli
  * @create 2021-02-13 下午 4:47
  */
 class Window1 implements Runnable{

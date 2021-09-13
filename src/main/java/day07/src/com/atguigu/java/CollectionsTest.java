@@ -14,7 +14,7 @@ import java.util.List;
  * 面试题：Collection 和 Collections的区别？
  *
  *
- * @author shkstart
+ * @author xuli
  * @create 2021 下午 4:19
  */
 public class CollectionsTest {

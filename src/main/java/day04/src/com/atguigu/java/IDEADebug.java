@@ -3,7 +3,7 @@ package day04.src.com.atguigu.java;
 import org.junit.Test;
 
 /**
- * @author shkstart
+ * @author xuli
  * @create 2021 上午 11:23
  */
 public class IDEADebug {

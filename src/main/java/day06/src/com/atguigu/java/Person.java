@@ -3,7 +3,7 @@ package day06.src.com.atguigu.java;
 import java.util.Objects;
 
 /**
- * @author shkstart
+ * @author xuli
  * @create 2021 上午 10:06
  */
 public class Person {

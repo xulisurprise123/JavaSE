@@ -5,7 +5,7 @@ import org.junit.Test;
 /**
  * String的使用
  *
- * @author shkstart
+ * @author xuli
  * @create 2021 上午 10:26
  */
 public class StringTest {

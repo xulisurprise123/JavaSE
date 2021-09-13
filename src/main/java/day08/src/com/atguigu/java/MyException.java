@@ -1,7 +1,7 @@
 package day08.src.com.atguigu.java;
 
 /**
- * @author shkstart
+ * @author xuli
  * @create 2021 上午 11:29
  */
 //异常类不能声明为泛型类

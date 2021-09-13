@@ -8,7 +8,7 @@ import java.util.Collection;
 /**
  * jdk 5.0 新增了foreach循环，用于遍历集合、数组
  *
- * @author shkstart
+ * @author xuli
  * @create 2021 上午 11:24
  */
 public class ForTest {

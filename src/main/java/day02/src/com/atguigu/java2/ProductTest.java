@@ -14,7 +14,7 @@ package day02.src.com.atguigu.java2;
  * 3. 如何解决线程的安全问题？同步机制,有三种方法
  * 4. 是否涉及线程的通信？是
  *
- * @author shkstart
+ * @author xuli
  * @create 2021-02-15 下午 4:48
  */
 class Clerk{

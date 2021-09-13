@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 /**
- * @author shkstart
+ * @author xuli
  * @create 2021 下午 4:07
  */
 public class PropertiesTest {

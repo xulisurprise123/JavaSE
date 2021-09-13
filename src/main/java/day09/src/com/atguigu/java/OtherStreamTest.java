@@ -10,7 +10,7 @@ import java.io.*;
  * 2.打印流
  * 3.数据流
  *
- * @author shkstart
+ * @author xuli
  * @create 2021 下午 6:11
  */
 public class OtherStreamTest {

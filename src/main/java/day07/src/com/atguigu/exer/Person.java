@@ -1,7 +1,7 @@
 package day07.src.com.atguigu.exer;
 
 /**
- * @author shkstart
+ * @author xuli
  * @create 2021 上午 10:50
  */
 public class Person {

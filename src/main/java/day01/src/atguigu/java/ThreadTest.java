@@ -9,7 +9,7 @@ package day01.src.atguigu.java;
  * <p>
  * 例子：遍历100以内的所有的偶数
  *
- * @author shkstart
+ * @author xuli
  * @create 2021-02-13 上午 11:46
  */
 

@@ -3,7 +3,7 @@ package day02.src.com.atguigu.java;
 /**
  * 使用同步方法处理继承Thread类的方式中的线程安全问题
  *
- * @author shkstart
+ * @author xuli
  * @create 2021-02-15 上午 11:43
  */
 class Window4 extends Thread {

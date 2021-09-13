@@ -1,7 +1,7 @@
 package day03.src.com.atguigu.java;
 
 /**
- * @author shkstart
+ * @author xuli
  * @create 2021 上午 11:01
  */
 public class Person {

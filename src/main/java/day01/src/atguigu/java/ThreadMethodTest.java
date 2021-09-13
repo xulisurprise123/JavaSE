@@ -29,7 +29,7 @@ package day01.src.atguigu.java;
  *   被执行。并不意味着只有当高优先级的线程执行完以后，低优先级的线程才执行。
  *
  *
- * @author shkstart
+ * @author xuli
  * @create 2021-02-13 下午 2:26
  */
 class HelloThread extends Thread{

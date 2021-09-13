@@ -5,7 +5,7 @@ import java.lang.annotation.*;
 import static java.lang.annotation.ElementType.*;
 
 /**
- * @author shkstart
+ * @author xuli
  * @create 2021 上午 11:56
  */
 @Inherited

@@ -6,7 +6,7 @@ package day07.src.com.atguigu.exer1;
  并为每一个属性定义 getter, setter 方法；
  并重写 toString 方法输出 name, age, birthday
 
- * @author shkstart
+ * @author xuli
  * @create 2021 上午 10:22
  */
 public class Employee implements Comparable{

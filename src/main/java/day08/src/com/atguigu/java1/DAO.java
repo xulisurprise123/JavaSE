@@ -3,7 +3,7 @@ package day08.src.com.atguigu.java1;
 import java.util.List;
 
 /**
- * @author shkstart
+ * @author xuli
  * @create 2021 上午 11:50
  *
  * DAO:data(base) access object

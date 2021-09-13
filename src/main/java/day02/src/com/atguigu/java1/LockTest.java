@@ -15,7 +15,7 @@ import java.util.concurrent.locks.ReentrantLock;
  *
  *
  *  面试题：如何解决线程安全问题？有几种方式
- * @author shkstart
+ * @author xuli
  * @create 2021-02-15 下午 3:38
  */
 class Window implements Runnable{

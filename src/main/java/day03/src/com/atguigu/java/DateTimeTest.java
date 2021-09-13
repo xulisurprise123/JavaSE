@@ -7,7 +7,7 @@ import java.util.Date;
 /**
  * JDK 8之前日期和时间的API测试
  *
- * @author shkstart
+ * @author xuli
  * @create 2021 下午 4:30
  */
 public class DateTimeTest {

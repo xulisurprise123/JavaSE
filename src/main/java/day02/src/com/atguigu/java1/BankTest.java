@@ -3,7 +3,7 @@ package day02.src.com.atguigu.java1;
 /**
  * 使用同步机制将单例模式中的懒汉式改写为线程安全的
  *
- * @author shkstart
+ * @author xuli
  * @create 2021-02-15 下午 2:50
  */
 public class BankTest {

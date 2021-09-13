@@ -4,7 +4,7 @@ package day01.src.atguigu.exer;
  * 练习：创建两个分线程，其中一个线程遍历100以内的偶数，另一个线程遍历100以内的奇数
  *
  *
- * @author shkstart
+ * @author xuli
  * @create 2021-02-13 下午 2:16
  */
 public class ThreadDemo {

@@ -2,7 +2,7 @@ package day04.src.com.atguigu.java;
 
 /**
  * 商品类
- * @author shkstart
+ * @author xuli
  * @create 2021 下午 4:52
  */
 public class Goods implements  Comparable{

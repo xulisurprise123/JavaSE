@@ -19,7 +19,7 @@ package day05.src.com.atguigu.java;
  *   情况一：实现接口，在enum类中实现抽象方法
  *   情况二：让枚举类的对象分别实现接口中的抽象方法
  *
- * @author shkstart
+ * @author xuli
  * @create 2021 上午 10:17
  */
 public class SeasonTest {
