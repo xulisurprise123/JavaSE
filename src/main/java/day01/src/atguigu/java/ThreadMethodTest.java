@@ -30,7 +30,7 @@ package day01.src.atguigu.java;
  *
  *
  * @author shkstart
- * @create 2019-02-13 下午 2:26
+ * @create 2021-02-13 下午 2:26
  */
 class HelloThread extends Thread{
     @Override

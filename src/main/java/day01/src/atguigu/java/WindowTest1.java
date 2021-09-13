@@ -5,7 +5,7 @@ package day01.src.atguigu.java;
  * 存在线程的安全问题，待解决。
  *
  * @author shkstart
- * @create 2019-02-13 下午 4:47
+ * @create 2021-02-13 下午 4:47
  */
 class Window1 implements Runnable{
 

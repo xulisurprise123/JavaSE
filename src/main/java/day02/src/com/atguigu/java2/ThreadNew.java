@@ -14,7 +14,7 @@ import java.util.concurrent.FutureTask;
  * 3. Callable是支持泛型的
  *
  * @author shkstart
- * @create 2019-02-15 下午 6:01
+ * @create 2021-02-15 下午 6:01
  */
 //1.创建一个实现Callable的实现类
 class NumThread implements Callable{

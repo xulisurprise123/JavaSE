@@ -15,7 +15,7 @@ package day02.src.com.atguigu.java2;
  * 4. 是否涉及线程的通信？是
  *
  * @author shkstart
- * @create 2019-02-15 下午 4:48
+ * @create 2021-02-15 下午 4:48
  */
 class Clerk{
 

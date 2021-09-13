@@ -21,7 +21,7 @@ package day02.src.com.atguigu.java2;
  *          3）关于是否释放同步监视器：如果两个方法都使用在同步代码块或同步方法中，sleep()不会释放锁，wait()会释放锁。
  *
  * @author shkstart
- * @create 2019-02-15 下午 4:21
+ * @create 2021-02-15 下午 4:21
  */
 class Number implements Runnable{
     private int number = 1;
