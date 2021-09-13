@@ -5,7 +5,7 @@ package day05.src.com.atguigu.java;
  * 说明：定义的枚举类默认继承于java.lang.Enum类
  *
  * @author shkstart
- * @create 2019 上午 10:35
+ * @create 2021 上午 10:35
  */
 public class SeasonTest1 {
     public static void main(String[] args) {

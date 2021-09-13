@@ -14,7 +14,7 @@ import java.util.Iterator;
  * 3.内部定义了remove(),可以在遍历的时候，删除集合中的元素。此方法不同于集合直接调用remove()
  *
  * @author shkstart
- * @create 2019 上午 10:44
+ * @create 2021 上午 10:44
  */
 public class IteratorTest {
 

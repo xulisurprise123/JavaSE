@@ -7,7 +7,7 @@ package day07.src.com.atguigu.exer1;
  并重写 toString 方法输出 name, age, birthday
 
  * @author shkstart
- * @create 2019 上午 10:22
+ * @create 2021 上午 10:22
  */
 public class Employee implements Comparable{
     private String name;

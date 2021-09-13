@@ -5,7 +5,7 @@ package day07.src.com.atguigu.exer1;
  private成员变量year,month,day；并为每一个属性定义 getter, setter 方法；
 
  * @author shkstart
- * @create 2019 上午 10:21
+ * @create 2021 上午 10:21
  */
 public class MyDate implements Comparable{
     private int year;

@@ -2,7 +2,7 @@ package day07.src.com.atguigu.java;
 
 /**
  * @author shkstart
- * @create 2019 下午 3:56
+ * @create 2021 下午 3:56
  */
 public class User implements Comparable{
     private String name;

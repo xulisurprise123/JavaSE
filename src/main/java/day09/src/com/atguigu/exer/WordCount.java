@@ -22,7 +22,7 @@ import java.util.Set;
  * 3.把map中的数据写入文件
  *
  * @author shkstart
- * @create 2019 下午 3:47
+ * @create 2021 下午 3:47
  */
 public class WordCount {
     /*

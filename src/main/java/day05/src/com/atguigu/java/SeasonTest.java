@@ -20,7 +20,7 @@ package day05.src.com.atguigu.java;
  *   情况二：让枚举类的对象分别实现接口中的抽象方法
  *
  * @author shkstart
- * @create 2019 上午 10:17
+ * @create 2021 上午 10:17
  */
 public class SeasonTest {
 

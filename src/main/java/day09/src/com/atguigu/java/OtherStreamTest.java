@@ -11,7 +11,7 @@ import java.io.*;
  * 3.数据流
  *
  * @author shkstart
- * @create 2019 下午 6:11
+ * @create 2021 下午 6:11
  */
 public class OtherStreamTest {
 

@@ -6,7 +6,7 @@ import java.util.Properties;
 
 /**
  * @author shkstart
- * @create 2019 下午 4:07
+ * @create 2021 下午 4:07
  */
 public class PropertiesTest {
 

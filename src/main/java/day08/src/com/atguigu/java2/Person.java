@@ -2,7 +2,7 @@ package day08.src.com.atguigu.java2;
 
 /**
  * @author shkstart
- * @create 2019 下午 2:42
+ * @create 2021 下午 2:42
  */
 public class Person {
 }
